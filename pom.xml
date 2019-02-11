@@ -6,7 +6,7 @@
 	<artifactId>spromo-service</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Caçador de pontos</name>
+	<name>Caçadores de pontos</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
