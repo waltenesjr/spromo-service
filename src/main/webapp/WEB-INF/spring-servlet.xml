@@ -26,6 +26,8 @@
 		<beans:property name="annotatedClasses">
 			<beans:list>
 				<beans:value>br.com.cacadordepontoextra.spromo.model.Login</beans:value>
+				<beans:value>br.com.cacadordepontoextra.spromo.model.Estabelecimento</beans:value>
+				<beans:value>br.com.cacadordepontoextra.spromo.model.Ponto</beans:value>
 			</beans:list>
 		</beans:property>
 		<beans:property name="hibernateProperties">

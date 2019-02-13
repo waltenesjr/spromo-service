@@ -15,7 +15,7 @@ public class HibernateDAO {
 
 	public Query createQuery(String query) {
 		Session session = sessionFactory.getCurrentSession();
-		return session.createQuery (query);
+		return session.createQuery(query);
 	}
 
 	public Criteria createCriteria(Class model) {
